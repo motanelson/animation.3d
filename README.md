@@ -44,10 +44,9 @@ Educators looking for simple code-based demonstrations of animation concepts.
 
 💡 Educational Vision
 
-This project is driven by the belief that seeing motion emerge a partir de código torna conceitos abstratos (como vetor, transformação, interpolação) mais compreensíveis.
-Ao combinar matemática e visualização, os usuários podem experimentar como pequenas variações em coordenadas criam movimento no espaço 3D.
+This project is driven by the belief that seeing motion emerge 
 
-
+Using code makes abstract concepts (like vectors, transformations, and interpolations) more understandable. By combining mathematics and visualization, users can experience how small variations in coordinates create movement in 3D space.
 ---
 
 ⚙️ Installation and Usage
