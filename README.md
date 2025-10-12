@@ -11,8 +11,7 @@ A simple 3D animation template in Python
 🧩 Project Summary
 
 Animation.3D is a Python project intended to create basic 3D animations, serving as a foundation for visual experimentation with spatial transformations and motion.
-It provides minimal scaffolding to ajudar estudantes e desenvolvedores a entender como movimentos tridimensionais podem ser gerados programaticamente.
-
+It provides minimal scaffolding to help students and developers understand how three-dimensional motion can be generated programmatically.
 
 ---
 
